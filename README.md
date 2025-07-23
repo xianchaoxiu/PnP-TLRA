@@ -9,9 +9,14 @@ Directly run demo.m for reproduction.
 ### Citation
 Please give credits to this paper if this code is useful and helpful for your research.
 
-     @article{sun2023learning,
+     @article{liu2025tensor,
       title     = {Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images},
       author    = {Liu, Jingjing and Feng, Manlong and Xiu, Xianchao and Zeng, Xiaoyang and Zhang, Jianhua},
       journal   = {IEEE Transactions on Instrumentation and Measurement},
+      year      = {2025},
+      volume    = {74},
+      pages     = {1--14},
       publisher = {IEEE}
      }
+
+
