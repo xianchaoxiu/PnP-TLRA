@@ -2,6 +2,8 @@
 
 The code in this toolbox implements ["Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images"](https://ieeexplore.ieee.org/document/10935754) by <i>J. Liu, M. Feng, X. Xiu, X. Zeng, J. Zhang</i>.
 
+![alt text](./framework.png)
+
 
 ### Testing
 Directly run demo.m for reproduction.
