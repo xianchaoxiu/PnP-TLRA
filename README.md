@@ -17,7 +17,7 @@ Please give credits to this paper if this code is useful and helpful for your re
       journal   = {IEEE Transactions on Instrumentation and Measurement},
       year      = {2025},
       volume    = {74},
-      pages     = {1--14},
+      pages     = {1-14},
       publisher = {IEEE}
      }
 
